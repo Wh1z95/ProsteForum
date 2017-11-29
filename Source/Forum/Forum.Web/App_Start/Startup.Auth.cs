@@ -1,4 +1,6 @@
 ﻿using System;
+using Forum.Data;
+using Forum.Data.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
